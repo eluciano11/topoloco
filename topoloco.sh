@@ -264,7 +264,7 @@ do
 	scoreBoards
 
 	turnCount=$(( $turnCount + 1 ))
-# done
+done
 
 echo "Resultado:"
 
